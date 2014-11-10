@@ -1,0 +1,26 @@
+{
+  "name": "brahma.squeeze",
+  "version": "1.0.0",
+  "authors": [
+    "Morulus <vladimirmorulus@gmail.com>"
+  ],
+  "description": "Squeeze image to wrapper",
+  "main": "jquery.squeeze.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "plugin",
+    "squeeze",
+    "image",
+    "fit"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/morulus/jquery.squeeze/",
+  "dependencies": {
+      "jquery": ">=1.7.1",
+      "jquery.tie": "latest"
+  }
+}
